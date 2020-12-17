@@ -13,7 +13,7 @@
 * ### 빵집/점주
   빵집의 기본정보, 운영정보, 상태, 휴게관련 등
 
-* ### 이벤트
+* ### 이벤트 
   빵집의 이벤트를 다룬다.
   
 * ### 메뉴
@@ -42,3 +42,8 @@
 * ### 이용약관
   
 * ### 알림
+
+
+## project structure
+
+[project structure](https://github.com/cheese10yun/spring-guide/blob/master/src/main/java/com/spring/guide/SampleApi.java)

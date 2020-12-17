@@ -1,4 +1,4 @@
-package me.doyoung.alley.app.domain;
+package me.doyoung.alley.app.domain.common;
 
 import lombok.Getter;
 import org.springframework.data.annotation.CreatedDate;
